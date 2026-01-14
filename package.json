@@ -1,0 +1,45 @@
+{
+  "name": "tushifa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^7.0.0",
+    "@fortawesome/react-fontawesome": "^0.2.3",
+    "@types/bcrypt": "^5.0.2",
+    "@vercel/blob": "^0.22.0",
+    "axios": "^1.6.2",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
+    "cloudinary": "^2.7.0",
+    "eslint-config-next": "14.0.3",
+    "mongoose": "^8.0.3",
+    "multer": "^2.0.2",
+    "next": "^14.2.35",
+    "next-auth": "^4.24.5",
+    "next-cloudinary": "^6.16.0",
+    "nextjs-toploader": "^1.6.4",
+    "react": "18.2.0",
+    "react-data-table-component": "^7.5.4",
+    "react-data-table-component-extensions": "^1.5.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.1.1",
+    "swr": "^2.3.6",
+    "tushifa": "file:",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "sass": "^1.69.5",
+    "vercel": "^50.3.0"
+  },
+  "packageManager": "pnpm@9.9.0+sha512.60c18acd138bff695d339be6ad13f7e936eea6745660d4cc4a776d5247c540d0edee1a563695c183a66eb917ef88f2b4feb1fc25f32a7adcadc7aaf3438e99c1"
+}
